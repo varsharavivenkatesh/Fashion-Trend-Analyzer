@@ -29,5 +29,5 @@ Fashion Trend Analyzer is a full-stack web application that predicts and visuali
 
 ---
 
-## Project Structure
+
 
